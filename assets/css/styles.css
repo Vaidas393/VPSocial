@@ -1,0 +1,26 @@
+/* .feature-list {
+  font-size: 30px;
+  line-height: 30px;
+  margin: 0;
+  padding-left: 10px;
+  list-style-position: inside;
+} */
+
+.feature-list li {
+  margin-bottom: 5px; /* Space between list items */
+  font-size: 18px;
+  line-height: 20px;
+  margin: 0;
+  padding-left: 10px;
+}
+
+.why-us .accordion-list li{
+  padding: 2px;
+  margin-bottom: 1px; /* Space between list items */
+  font-size: 16px;
+  line-height: 21px;
+  margin: 0;
+  padding-left: 10px;
+  font-weight: normal;
+
+}
